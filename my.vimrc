@@ -1,0 +1,2 @@
+colorscheme koehler
+set number
